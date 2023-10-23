@@ -1,4 +1,6 @@
-- 👋 Olá, eu sou a Marieli! Tenho 23 anos e atualmente moro em Cascavel-PR
+## Olá, eu sou a Marieli!  👋
+
+- 👾 Tenho 23 anos e atualmente moro em Cascavel-PR
 - 👀 Estou interessada em aprender programação web, com foco em front-end
 - 🌱 Atualmente estou aprendendo sobre HTML, CSS e Javascript
 - 🎯 Meu foco é me desenvolver para atuar no mercado de trabalho desta área
