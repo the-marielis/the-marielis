@@ -4,7 +4,7 @@
   
 - 👾 Tenho 24 anos e atualmente moro em Cascavel-PR <img align="right" alt="pc" height="200em" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 - 👀 Estou interessada em aprender programação web, com foco em front-end
-- 🌱 Atualmente estou aprendendo sobre HTML, CSS e Javascript
+- 🌱 Atualmente estou aprendendo sobre React, Next, C e Java.
 - 🎯 Meu foco é me desenvolver para atuar no mercado de trabalho desta área
 - 💡 Tenho facilidade em aprender e estou sempre em busca de inovação
   
@@ -18,9 +18,16 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" al="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C-language" height="30" widht="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  <img align="center" alt="C-language" height="30" widht="40" src="https://img.icons8.com/color/600/c-programming.png">
+  
+  
+
 </div>
   
   ##
