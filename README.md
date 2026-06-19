@@ -1,40 +1,104 @@
-## Olá, eu sou a Marieli!  👋
+<div align="center">
 
-<img align="center" alt="hello,world" height="200em" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
-  
-- 👾 Tenho 25 anos e atualmente moro em Cascavel-PR <img align="right" alt="pc" height="200em" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
-- 👀 Estou interessada em aprender programação web, com foco em front-end
-- 🌱 Atualmente estou aprendendo sobre React, Node.js, C e Java.
-- 🎯 Meu foco é me desenvolver para atuar no mercado de trabalho desta área
-- 💡 Tenho facilidade em aprender e estou sempre em busca de inovação
-  
-<br>
-<div>
-  <a href=>
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=the-marielis&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-marielis&layout=compact&langs_count-16&theme=dracula"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Olá%2C+sou+a+Marieli!;Front-end+Developer+em+formação;React+%7C+Python+%7C+JavaScript+%7C+SQL;Sempre+aprendendo%2C+sempre+crescendo)
+
+</div>
+
+---
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="200"/>
+
+## Sobre mim
+- 📍 Cascavel-PR — Brasil
+- 👀 Interessada em desenvolvimento **front-end** e **web**
+- 🌱 Aprendendo **React**, **Python** e **Java**
+- 💡 Facilidade em aprender, sempre em busca de inovação
+- ✨ 26 anos, curiosa e apaixonada por tecnologia
+
+<br clear="right"/>
+
+---
+
+## Tecnologias & Ferramentas
+
+<div align="center">
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Back-end & Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 
+---
 
-<div style="display: inline_block"><br>
+## Estatísticas do GitHub
 
-  <img align="center" al="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C-language" height="30" widht="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
-  <img align="center" alt="C-language" height="30" widht="40" src="https://img.icons8.com/color/600/c-programming.png">
-  
-  
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-marielis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F17&title_color=C084FC&icon_color=F472B6&text_color=E2E8F0&ring_color=C084FC"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-marielis&layout=compact&langs_count=8&hide_border=true&bg_color=0D0F17&title_color=C084FC&text_color=E2E8F0"/>
 
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/the.marielis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: marieliirene@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marieli-teixeira-5a58a217a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=the-marielis&hide_border=true&background=0D0F17&stroke=2A1D3E&ring=C084FC&fire=F472B6&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=7A879E&currStreakNum=F472B6&sideNums=C084FC" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Conquistas
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=the-marielis&theme=dracula&column=7&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-marielis&bg_color=0D0F17&color=C084FC&line=F472B6&point=E2E8F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marieli-teixeira-5a58a217a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.marielis/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marieliirene@hotmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=the-marielis&color=C084FC&style=for-the-badge&label=VISITAS+AO+PERFIL)
+
+*"A jornada de mil milhas começa com um único passo."* ✨
+
 </div>
