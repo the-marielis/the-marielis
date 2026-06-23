@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-marielis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F17&title_color=C084FC&icon_color=F472B6&text_color=E2E8F0&ring_color=C084FC"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=the-marielis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F17&title_color=C084FC&icon_color=F472B6&text_color=E2E8F0&ring_color=C084FC]"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-marielis&layout=compact&langs_count=8&hide_border=true&bg_color=0D0F17&title_color=C084FC&text_color=E2E8F0"/>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=the-marielis&theme=dracula&column=7&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=the-marielis&theme=dracula&column=4&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
